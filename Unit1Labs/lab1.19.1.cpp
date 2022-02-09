@@ -10,7 +10,6 @@ void conToSec(int hours, int mins, int seconds){
     const int secMultiplier = 60;
     int hoursToSec; 
     int minsToSec;
-    int toalSec;
 
     /*
         * To run with autotest cases, leave the code as-is.
