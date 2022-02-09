@@ -14,7 +14,8 @@ void conToSec(int hours, int mins, int seconds){
 
     /*
         * To run with autotest cases, leave the code as-is.
-        * For manual input, uncomment "cin >> hours, cin >> mins, cin >> seconds" then run the code.
+        * For manual input, uncomment "cin >> hours, 
+        * cin >> mins, cin >> seconds" then run the code.
     */
     //cin >> hours;
     hoursToSec = hours * secMultiplier * secMultiplier;
