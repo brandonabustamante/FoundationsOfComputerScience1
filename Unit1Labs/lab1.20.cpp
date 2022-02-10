@@ -1,3 +1,6 @@
+// Brandon Aaron Bustamante, yxx5@txstate.edu
+// No collaborator(s)
+// LAb 1.20
 #include <iostream>
 #include <math.h>
 using namespace std;
