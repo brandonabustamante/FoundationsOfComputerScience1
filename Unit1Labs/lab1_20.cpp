@@ -43,7 +43,7 @@ int main() {
 
    cout << "Enter another integer:" << endl;
    cin >> secondNum;
-   
+
    cout << userNum << " + " << secondNum << " is " << userNum + secondNum << endl;
    cout << userNum << " * " << secondNum << " is " << userNum * secondNum << endl;
 
