@@ -30,7 +30,7 @@ import math
 # Will only make comments on unclear code.
 
 if __name__ == "__main__":
-    user_in = input("Enter integer")
+    user_in = input("Enter integer: ")
     user_num = int(user_in)
 
     print("You entered: ", user_num)
@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
     user_in = input("Enter another integer ")
     second_num = int(user_in)
-    
+
     print(user_num, " + ", second_num," is ", (user_num + second_num))
     print(user_num, " * ", second_num, " is ", (user_num * second_num))
 

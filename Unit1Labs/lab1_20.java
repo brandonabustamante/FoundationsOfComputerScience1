@@ -1,5 +1,5 @@
 // Comment out the package to run Java files in your system.
-package Unit1Labs;
+//package Unit1Labs;
 import java.util.Scanner;
 // Brandon Aaron Bustamante, yxx5@txstate.edu
 // No collaborators
@@ -48,7 +48,7 @@ public class lab1_20 {
         secondNum = scnr.nextInt();
 
         System.out.println(userNum + " + " + secondNum + " is " +
-            userNum + secondNum);
+            (userNum + secondNum));
         System.out.println(userNum + " * " + secondNum + " is " +
             userNum * secondNum);
 
