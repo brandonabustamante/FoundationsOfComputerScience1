@@ -1,5 +1,5 @@
 // Comment out the package to run Java files in your system.
-package Unit1Labs;
+// package Unit1Labs;
 import java.util.Scanner;
 // Brandon A Bustamante
 // 02/10/22

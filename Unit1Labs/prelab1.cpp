@@ -2,6 +2,9 @@
 // 02/10/22
 // Pre-Lab 1 Assignment 
 
+// Do not exceed last *
+/********************************************************************************/
+
 //Copy and Paste this code into your IDE and complete the requested items.
 #include <iostream>
 #include <math.h>
@@ -12,7 +15,8 @@ int main() {
     // There are a several errors with the below code
     // Fix the syntax and logical errors.
 
-    // The Program should take two integers from the user and assign them to x and y.
+    // The Program should take two integers from the user and assign them to x
+    // and y.
     // The program should then print d to the power of 2 and x + 36
 
     // added ; to end statements

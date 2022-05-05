@@ -46,4 +46,3 @@ if __name__ == "__main__":
     print(user_num, " * ", second_num, " is ", (user_num * second_num))
 
     quit()
-    

@@ -34,6 +34,7 @@ if __name__ == "__main__":
     # Calculate number of circles and the left over paper and assign
     # them to the appropriate variables:
     areaOfRectangle = width * height;
+    # ** is the same a the power function
     areaOfCircle = PI * (radius ** 2)
     numOfCircles = int(areaOfRectangle / areaOfCircle);
     remainPaper = areaOfRectangle - (numOfCircles * areaOfCircle);
