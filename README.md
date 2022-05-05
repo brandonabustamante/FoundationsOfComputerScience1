@@ -20,3 +20,17 @@ It covers basic output and variable assignment.
 PRELAB1: Find and fix errors, then write code to convert pounds to kilograms
 
 LAB1PROGRAM: Calculate the number of circles within a rectangle
+
+## Unit 2 Expressions & Data Types
+
+2.18 LAB: Ordering pizza
+
+2.19 LAB: Caffeine levels
+
+2.20 LAB: Grade distribution
+
+2.21 LAB: Convert from seconds
+
+2.22 LAB: Input: Mad Lib
+
+2.23 LAB: TV screen dimensions
