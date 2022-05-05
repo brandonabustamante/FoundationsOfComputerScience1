@@ -40,7 +40,7 @@ int main() {
 	subTotal = pizzasOrdered * LGPIZZA;
 	totalCost = subTotal + (subTotal * SALESTAX);
 	
-    cout << fixed << setprecision(2);
+	cout << fixed << setprecision(2);
 	cout << "Subtotal: $"  << subTotal << endl;
 	cout << "Total due: $" << totalCost << endl;
 	
