@@ -19,4 +19,4 @@ It covers basic output and variable assignment.
 
 PRELAB1: Find and fix errors, then write code to convert pounds to kilograms
 
-LAB1PROGRAM:
+LAB1PROGRAM: Calculate the number of circles within a rectangle
