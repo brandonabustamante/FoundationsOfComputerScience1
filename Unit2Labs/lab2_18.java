@@ -19,7 +19,7 @@ import java.util.Scanner;
  * Total due: $31.77
  * 
  * Note: Use named constants (also known as constant variables) for the
- * pizza cost and the sales tax amount.
+ * pizza cost and the sales tax amount.  
 */
 
 // Do not exceed last *
@@ -37,10 +37,9 @@ public class lab2_18 {
         pizzasOrdered = scnr.nextInt();
 
         subTotal = pizzasOrdered * LGPIZZA;
-
         totalCost = subTotal + (subTotal * SALESTAX);
 
-        System.out.printf("Subtoal: $%.2f \n", subTotal);
+        System.out.printf("Subtotal: $%.2f \n", subTotal);
         System.out.printf("Total due: $%.2f \n", totalCost);
 
         scnr.close();

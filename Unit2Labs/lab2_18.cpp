@@ -18,7 +18,7 @@
  * Total due: $31.77
  * 
  * Note: Use named constants (also known as constant variables) for the
- * pizza cost and the sales tax amount.
+ * pizza cost and the sales tax amount.  
 */
 
 // Do not exceed last *
