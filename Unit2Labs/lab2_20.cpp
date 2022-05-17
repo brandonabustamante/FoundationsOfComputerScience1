@@ -24,7 +24,7 @@
  * The output should display fractional amounts to one decimal place.
 */
 
-// Do not exceed last *
+// Do not exceed last * 
 /********************************************************************************/
 
 #include <iostream>

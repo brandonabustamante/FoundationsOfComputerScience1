@@ -23,10 +23,10 @@ import java.util.Scanner;
  * F grades: 18.2
  * 
  * Use int for the data type of the input values.
- * The output should display fractional amounts to one decimal place.
+ * The output should display fractional amounts to one decimal place. 
 */
 
-// Do not exceed last *
+// Do not exceed last * 
 /********************************************************************************/
 
 public class lab2_20 {
