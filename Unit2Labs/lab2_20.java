@@ -62,6 +62,6 @@ public class lab2_20 {
         System.out.printf("F grades: %.1f\n", percentage * MULTIPLIER);
 
         scnr.close();
-        System.exit(0);
+        System.exit(0); 
     }
 }

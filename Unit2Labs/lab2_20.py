@@ -27,9 +27,6 @@
 # Do not exceed last *
 #********************************************************************************#
 
-
-
-
 if __name__ == "__main__":
     MULTIPLIER = 100
 
@@ -61,4 +58,4 @@ if __name__ == "__main__":
     percentage = float(f_students) / total_students
     print("F grades: %.1f" %(percentage * MULTIPLIER))
 
-    quit()
+    quit() 
