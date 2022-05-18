@@ -1,6 +1,6 @@
 // Brandon A Bustamante yxx5@txstate.edu
 // No collaborators
-// LAB 2.20
+// LAB 2.20 Grade distribution
 
 /*
  * Write a program that calculates the percentage of students receiving each letter
