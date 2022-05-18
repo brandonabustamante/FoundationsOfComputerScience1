@@ -1,6 +1,6 @@
 # Brandon A Bustamante yxx5@txstate.edu
 # No collaborators
-# LAB 2.18
+# LAB 2.18 Ordering pizza
 
 """
  * A local pizza shop is selling a large pizza for $9.99. Given the number of
