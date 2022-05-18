@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Brandon A Bustamante yxx5@txstate.edu
 // No collaborators
-// LAB 2.19
+// LAB 2.19 Caffeine levels
 
 /*
  * A half-life is the amount of time it takes for a substance or entity to fall to
